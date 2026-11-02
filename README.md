@@ -233,6 +233,6 @@ Actual results and training times may vary depending on the runtime and random s
 
 ChatGPT was used to help explain model architectures, provide example implementations, guide the training workflow, and help organize the evaluation and documentation.
 
-I ran the models, examined their outputs, compared the experimental results, and reviewed the explanations.
+I ran the models, examined their outputs, compared the experimental results, reviewed the explanations and write the analysis.
 
 The full AI-use documentation will be provided in `ai_use_summary.md`.
