@@ -1,0 +1,4 @@
+Model,Train Loss,Validation Loss,Training Time (s)
+Bigram,2.4796,2.5047,2.71
+LSTM,1.6476,1.7797,5.09
+Transformer,2.0498,2.0961,8.12

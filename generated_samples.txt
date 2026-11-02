@@ -1,0 +1,62 @@
+==================================================
+Bigram Generated Text
+==================================================
+
+I
+O: asafite tis, te othur mod thand he, preckn,
+
+Henthimavachishelapinisers we s, oreanotsthelu.
+GLI it inde Miced tlat mang yofowhas
+brothangean t.
+
+
+D hathapr me machan fHe.
+Ben d iere--sthurore cense wn ce me, woass t avest t, metha'?
+
+Mavy?
+
+
+TINGS:
+
+D:BRGLONGof ind s heve she, fHavers ndowe:
+L
+
+==================================================
+LSTM Generated Text
+==================================================
+
+If tile; noblen'd the till me is and he beteck.
+
+GLOUCESTERY:
+So, lapvits by we have good
+The luke I will, be ever fold
+He call it thy
+brothange.
+Secture his gream, my hand Hereeding in wife,
+Whose cansely make that as nower? whither?
+
+PRINCE:
+Your I have are old God in Wadery: she, be bron than sta
+
+==================================================
+Transformer Generated Text
+==================================================
+
+Prit Cowfiter, 'ther on up monstarn on eep:
+Ton,
+Of I witho--ASThelleveis by we burorn.
+
+PUANCETRENIICENT,NG HABER:
+Plakeman, your thy brothangsan try
+Thas thaps me machan the.
+
+Nuplice:
+Histwurs:
+Icense wilce my seyess thee? wor, ment;
+Alm; hy in that hy ass ole!-
+In fir dervals:
+
+TENVIO:
+Ky and:
+T
+
