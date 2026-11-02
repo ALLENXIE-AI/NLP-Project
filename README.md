@@ -227,7 +227,7 @@ Actual results and training times may vary depending on the runtime and random s
 - `model_comparison.csv` — Training loss, validation loss, and training time.
 - `generated_samples.txt` — Generated text from all three models.
 - `README.md` — Project documentation.
-- `ai_use_summary.md` — AI assistance and usage documentation (to be added).
+- `ai_use_summary.md` — AI assistance and usage documentation.
 
 ## 11. AI Usage
 
