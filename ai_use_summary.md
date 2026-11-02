@@ -1,3 +1,24 @@
+# AI Use Summary
+
+## AI Tool Used
+
+ChatGPT (OpenAI)
+
+## How AI Assisted Me
+
+I used ChatGPT as a learning and coding assistant during this project.
+
+ChatGPT helped me understand the differences between Bigram, LSTM, and Transformer models, and provided initial PyTorch implementation examples.
+
+It also helped explain character-level tokenization, training loops, model evaluation, and text generation.
+
+After running the experiments, I provided the actual model results to ChatGPT for help interpreting the differences in validation loss, training time, and generated text quality.
+
+ChatGPT also assisted with structuring the README, results analysis, final reflection, and AI-use documentation.
+
+I was responsible for executing the experiments, checking the outputs, comparing the results, and reviewing the final project materials.
+
+The model implementations were AI-assisted, and I have documented this rather than claiming that all code was written independently.
 
 ## My Contributions
 
